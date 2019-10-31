@@ -1,19 +1,19 @@
-## Project setup 
+## Configurar e Instalar dependencias 
 ```
 npm install
 ```
 
-### Run the app
+### Execute o aplicativo
 ```
 npm start
 ```
 
-### Install Electron packager
+### Instalar o Electron packager
 ```
 npm install electron-packager -g
 ```
 
-### Compiles for production
+### Compilar para produção
 ```
 npm run package-mac
 ```
@@ -24,12 +24,12 @@ npm run package-win
 npm run package-linux
 ```
 
-### Create Mac installer
+### Criar instalador do Mac
 ```
 npm install electron-installer-dmg -g
 ```
 ```
 npm run create-installer-mac
 ```
-### Customize configuration
-See [Configuration Reference](https://github.com/hokein/electron-sample-apps/tree/master/webview/browser).
+### Personalizar configuração
+Ver [Referência de configurações](https://electronjs.org/docs).
