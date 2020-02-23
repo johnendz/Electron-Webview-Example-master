@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Electron logo" src="https://cdn.iconscout.com/icon/free/png-256/electron-18-283418.png" width="250px" />
+    <img alt="Electron logo" src="https://i.imgur.com/FMLfnvu.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="Captura de Tela" width="1024" src="https://i.imgur.com/zmO081Y.png">
+  <img alt="Captura de Tela" width="1024" src="https://i.imgur.com/KaC98TF.png">
 </p>
 
 ## :rocket: Tecnologias
