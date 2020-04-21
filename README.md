@@ -6,19 +6,19 @@
   📖 Electron WebView Example
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/johnendz/Electron-Webview-Example">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/johnendz/Electron-Webview-Example?color=9cf">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnendz/Electron-Webview-Example">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnendz/Electron-Webview-Example?color=9cf">
   
   <a href="https://github.com/johnendz/Electron-Webview-Example/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnendz/Electron-Webview-Example">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnendz/Electron-Webview-Example?color=9cf">
   </a>
 
   <a href="https://github.com/johnendz/Electron-Webview-Example/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/johnendz/Electron-Webview-Example">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/johnendz/Electron-Webview-Example?color=9cf">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-9cf">
 </p>
 
 <p align="center">
